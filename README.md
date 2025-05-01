@@ -1,6 +1,6 @@
 ### Quasi-Geostrophisches Modell geschrieben in der C-Programmiersprache (Model of Quasi-Geotrophy written in C programming language)
 
-* Desktop app which creates a Quasi-Geotrophy (QG) mode ans is written in C-language.
+* Desktop app which creates a Quasi-Geotrophy (QG) mode and is written in C-language.
 * Stores model configuration parameters like number of layers, grid size, time step (dt), beta parameter, Coriolis parameter (f0), gravity (g), layer thickness (H), geometry, solver type, boundary conditions, wind forcing, and topography scale.
 * Holds simulation data, including arrays for streamfunction (psi), potential vorticity (q), previous PV (q_prev), velocities (u, v), topography, and FFTW arrays for spectral computations.
 * Allocates memory for model arrays based on grid size (default 64x64) and number of layers (2–4).
