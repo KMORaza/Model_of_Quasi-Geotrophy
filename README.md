@@ -1,4 +1,4 @@
-### Quasi-Geostrophisches Modell geschrieben in der C-Programmiersprache (Model of Quasi-Geotrophy written in C programming language)
+### Quasi-Geostrophisches Modell geschrieben in der C-Programmiersprache (Model of Quasi-Geostrophy written in C programming language)
 
 * Desktop app which creates a Quasi-Geotrophy (QG) mode and is written in C-language.
 * Stores model configuration parameters like number of layers, grid size, time step (dt), beta parameter, Coriolis parameter (f0), gravity (g), layer thickness (H), geometry, solver type, boundary conditions, wind forcing, and topography scale.
